@@ -1,5 +1,6 @@
 #ifndef _ALX_
 #define _ALX_
+#define _GNU_SOURCE
 
 #include <stdio.h>
 #include <unistd.h>
